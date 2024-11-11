@@ -9,7 +9,7 @@ export const Hero = () => {
 
       <h1 className='head_text'>
         Summarize Articles with <br className='max-md:hidden' />
-        <span className='emerald_gradient'>OpenAI GPT-4</span>
+        <span className='emerald_gradient'>RAPID API</span>
       </h1>
       <h2 className='desc'>
         Simplify your reading with Summize, an open-source article summarizer
