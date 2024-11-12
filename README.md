@@ -19,4 +19,4 @@ Web application that generates Summary Articles uses (RapidApi AI Summarizer).
 
 Check it out at: https://openai-summary.netlify.app/
 
-![SummarizerApp](https://i.imgur.com/WAoY8AG.png)
+![SummarizerApp]([https://i.imgur.com/WAoY8AG.png](https://ibb.co/VTvnyk0))
