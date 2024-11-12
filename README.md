@@ -14,6 +14,21 @@ Web application that generates Summary Articles uses (RapidApi AI Summarizer).
 ### API
 1. [Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel)
 
+## Getting Started
+1. Clone this repository to your local machine
+```bash
+git clone https://github.com/DadvaiahPavan/AI-Summarize.git
+```
+2. Install dependencies
+```bash
+npm install
+```
+3. Run the app
+```bash
+npm run dev
+```
+4. Open http://localhost:3000 in your browser to see the application running
+
 ### Deployment
 1. netlify
 
